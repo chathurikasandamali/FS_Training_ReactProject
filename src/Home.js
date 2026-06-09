@@ -8,6 +8,10 @@ export default function Home() {
         Welcome to the home page. Use the button or the navigation links to
         visit the HelloWorld page.
       </p>
+      <p>
+        Welcome to the home page. Use the button or the navigation links to
+        visit the HelloWorld page.
+      </p>
     </div>
   );
 }
