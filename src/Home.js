@@ -8,10 +8,6 @@ export default function Home() {
         Welcome to the home page. Use the button or the navigation links to
         visit the HelloWorld page.
       </p>
-      <p>
-        This is the main landing page for the app. The navigation setup is
-        handled in `App.js` with React Router.
-      </p>
     </div>
   );
 }
